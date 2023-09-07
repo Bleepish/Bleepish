@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Bleepish
+- 👋 Hi, I’m Bleepish
 - 👀 I’m interested in cybersecurity and making games
-- 🌱 I’m currently learning Unity
+- 🌱 I’m currently learning Unity, Git, and Python
 - 📫 How to reach me bleepish@gmail.com
 
 <!---
