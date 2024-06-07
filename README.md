@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bleepish
-- 👀 I’m like programming and making games
+- 👀 I like programming and making games
 
 - Check out links to my socials on the 'links' file
 
